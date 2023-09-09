@@ -1,6 +1,6 @@
 # DYDAKTYKA
 <body>
-<p align="right"> <font color="red" size="3" face="Arial"> Artur </font> </p> <br>
+<p align="left"> <font color="red" size="3" face="Arial"> Artur </font> </p> <br>
 
 
 
