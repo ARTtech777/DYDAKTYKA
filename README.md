@@ -23,6 +23,13 @@
 
 
 <h1> :C duży smutek </h1>
- <h2> :( smutek </h2>
+<h2> :( smutek </h2>
+<h3> :D uśmiech </h3>
+<h4>  :* pocałunek </h4>
+<h5> ;) mrugnięcie </h5>
+<h6> :P wystający język </h6>
+
+
+ 
 </body>
 
