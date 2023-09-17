@@ -29,7 +29,6 @@
 <h5> ;) mrugnięcie </h5>
 <h6> :P wystający język </h6>
 
-
  
 </body>
 
